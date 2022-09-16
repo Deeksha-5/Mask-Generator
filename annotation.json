@@ -1,0 +1,33 @@
+{
+    "test.png8946572": {
+        "size": 8946572,
+        "height": 12345,
+        "weight": 12458,
+        "filename": "test.png",
+        "regions": {
+            "0": {
+                "shape_attributes": {
+                    "name": "polygon",
+                    "all_points_x": [
+                        2539,
+                        3380,
+                        3388,
+                        2539,
+                        2539
+                    ],
+                    "all_points_y": [
+                        1653,
+                        1645,
+                        2592,
+                        2622,
+                        1653
+                    ]
+                },
+                "region_attributes": {
+                    "object": "benign",
+                    "colour": "yellow"
+                }
+            }
+        }
+    }
+}
